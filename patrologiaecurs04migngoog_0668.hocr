@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./patrologiaecurs04migngoog_0668.png"; bbox 0 0 3892 6104; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1247 282 1759 565">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1247 282 1759 565">
+     <span class='ocr_line' id='line_1_1' title="bbox 1247 282 1759 565; baseline -0.016 -77"><span class='ocrx_word' id='word_1_1' title='bbox 1247 282 1759 565; x_wconf 89' lang='grc' dir='ltr'>ΙΙΙΙΙΙΙΙΙΙΙΙΙΙΙΙΙ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1251 488 1731 574">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1251 488 1731 574">
+     <span class='ocr_line' id='line_1_2' title="bbox 1251 488 1731 574; baseline -0.02 0"><span class='ocrx_word' id='word_1_2' title='bbox 1251 497 1276 574; x_wconf 85' lang='grc'>3</span> <span class='ocrx_word' id='word_1_3' title='bbox 1308 496 1418 572; x_wconf 87' lang='grc'>2044</span> <span class='ocrx_word' id='word_1_4' title='bbox 1450 493 1532 569; x_wconf 84' lang='grc'>054</span> <span class='ocrx_word' id='word_1_5' title='bbox 1564 488 1731 567; x_wconf 88' lang='grc'>7597</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1950 6100">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1950 6100">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1950 6100; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1950 6100; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
